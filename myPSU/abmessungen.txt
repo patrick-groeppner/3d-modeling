@@ -1,0 +1,10 @@
+name		x	y	z
+
+gehäuse		250mm	180mm	80mm
+trafo		98mm	130mm	40mm
+display		45mm	26mm	---
+schalter		47mm	27mm	---
+banana plugs	r=3,5mm
+
+poti		r=6,75mm		h=15mm
+schalter		8,5mm	3,8mm	3,5mm
